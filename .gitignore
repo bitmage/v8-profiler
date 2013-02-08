@@ -4,3 +4,7 @@ build/*
 *.swp
 *.swo
 .DS_Store
+tmp
+WebKit
+node_modules
+npm-debug.log
